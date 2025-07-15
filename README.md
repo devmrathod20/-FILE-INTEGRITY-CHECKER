@@ -46,3 +46,7 @@ My takeaway:
 I really enjoyed working on this task because it showed me how a small script can add real security value. It’s straightforward but gives a clear picture of how organizations keep their files safe from unauthorized changes. This also motivated me to think about how more advanced integrity monitoring tools are built in the industry.
 
 Overall, this task gave me practical experience in using Python for security automation — and I’m excited to apply this knowledge to bigger tools in the coming tasks!
+
+*OUTPUT*:
+
+<img width="1914" height="998" alt="Image" src="https://github.com/user-attachments/assets/dec0aa92-17b7-4d7c-9523-e582c1823879" />
